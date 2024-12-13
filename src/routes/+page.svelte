@@ -6,7 +6,7 @@
 	<title>Andrew Ruddy - Main page</title>
 </svelte:head>
 <main>
-	<h1>Hi!✋ <br /> I'm Andrew Ruddy a Mechanical Engineer 👨📐✏️📈 with a passion for robotics 🤖</h1>
+	<h1>Hi!✋ <br /> I'm Andrew Ruddy <br> I'm a Mechanical Engineer 📐📈 with a passion for robotics 🤖</h1>
 	<div class="icons">
 		<div
 			role="button"
