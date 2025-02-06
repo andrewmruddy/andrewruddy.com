@@ -58,7 +58,7 @@
 <style>
 	.projectContainer {
 		width: 100%;
-		max-width: 900px;
+		max-width: 90vw;
 		display: flex;
 		justify-content: center;
 		box-sizing: border-box;
@@ -104,7 +104,7 @@
 		color: white;
 		background: #111;
 		padding: 2rem;
-		width: 100%;
+		width: 90vw;
 		border-radius: 5px;
 		transition: transform 0.2s ease-in-out;
 		border-radius: 25px;
@@ -116,7 +116,7 @@
 	}
 
 	.projects {
-		width: 100%;
+		width: 90vw;
 		margin: 50px auto;
 		display: grid;
 		grid-gap: 1rem;
