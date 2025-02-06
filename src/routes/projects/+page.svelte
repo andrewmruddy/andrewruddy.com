@@ -49,6 +49,9 @@
 							allowfullscreen>
 						</iframe>
 					{/each}
+					{#each project.pictures as picture, index}
+						<img src={picture} alt={"Project " + (index + 1) + ""} />
+					{/each}
 				</div>
 			</div>
 		{/each}
