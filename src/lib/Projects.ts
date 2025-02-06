@@ -4,7 +4,7 @@ const projects = [
 		technologies: ['Python', 'Robotics', '3D Printing', 'Regression Modeling'],
 		role: 'Extracurricular/Individual Project',
 		description:
-			'My projects with Dorna robots range from programming the robots to draw, pick and place, and change tools. I have also spent plent of time programming the robots to be a bartender. To get the robot to pour the exact amount, I modeled the bottle\'s behavior with extensive data collection. I then created a mathematical model for the bottle\'s pouring dynamics so the robot could pour precise amounts over the full range of the bottle\'s volume.',
+			'My projects with Dorna robots range from programming the robots to draw, pick and place, and change tools. I have also spent plenty of time programming the robots to be a bartender. To get the robot to pour the exact amount, I modeled the bottle\'s behavior with extensive data collection. I then created a mathematical model for the bottle\'s pouring dynamics so the robot could pour precise amounts over the full range of the bottle\'s volume.',
 			url: ['https://www.youtube.com/embed/EgrA19qtnZg?si=B-MW6noya46l8uFg',
 				'https://youtube.com/embed/W_CNs2aZyZo?si=9PzPpF47P6pi7kpJ'
 			],
