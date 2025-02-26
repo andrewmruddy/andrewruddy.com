@@ -50,7 +50,7 @@
 						</iframe>
 					{/each}
 					{#each project.pictures as picture, index}
-						<img style="width: 100%" href={picture} alt={"Project " + (index + 1) + ""} />
+						<img style="width: 100%" src={picture} alt={"Project " + (index + 1) + ""} />
 					{/each}
 				</div>
 			</div>
